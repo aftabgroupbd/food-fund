@@ -85,6 +85,9 @@ h1{
     border: 2px solid #bdb9b9;
     border-radius: 5px;
 }
+textarea{
+    resize: none;
+}
 .message-btn{
     padding: 15px 25px;
     text-decoration: none;
