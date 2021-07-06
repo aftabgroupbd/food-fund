@@ -13,6 +13,29 @@ h1{
     display: flex;
     
 }
+header{
+    background-color: #ef441e;
+    color: #fff;
+}
+header p{
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+}
+#login-register{
+    text-align: center;
+}
+header a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.header-box{
+    width: 40%;
+    margin: auto 0px auto 10%;
+}
 .align-item-center{
     align-items: center;
 }
